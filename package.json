@@ -1,0 +1,14 @@
+{
+  "name": "lambdajs",
+  "version": "1.0.0",
+  "description": "creating a lambda projevt in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navya",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.25.1"
+  }
+}
