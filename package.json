@@ -9,6 +9,6 @@
   "author": "Navya",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.25.1"
+    "moment": "^2.29.4"
   }
 }
